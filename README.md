@@ -9,6 +9,6 @@
 - Discord: @m4theus.wtfkkj
 ## Projetos
 - VexyWorld (abandonado atualmente)
-- iAkunaMC (iakunamc.play-ss.net 2051 | [Servidor no discord](https://dsc.gg/iakunamc))
-- M4Shield ([Projeto no github](https://github.com/m4theuswtfkkj/m4shield))
+- iAkunaMC (iakunamc.play-ss.net 2051 | [Servidor no Discord](https://dsc.gg/iakunamc))
+- M4Shield ([Projeto no github](https://github.com/m4theuswtfkkj/m4shield) | [Servidor no Discord](https://discord.com/invite/b2VCfma42h))
 - M4Bot ([Projeto no github](https://github.com/m4theuswtfkkj/m4bot))
