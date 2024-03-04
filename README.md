@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**m4theuswtfkkj/m4theuswtfkkj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Oi! meu nome é matheus
+![Meu perfil](https://github-stats-alpha.vercel.app/api/?username=m4theuswtfkkj&cc=000000&tc=7759b5&ic=9c6bff&bc=402773)
+## Linguagens de programação que eu tenho conhecimento
+- ![PHP](https://img.shields.io/badge/PHP-1a1a1a?style=for-the-badge&logo=php&logoColor=a436ff)
+- ![Python](https://img.shields.io/badge/PYTHON-1a1a1a?style=for-the-badge&logo=python&logoColor=a436ff) (Não muito)
+## Redes sociais
+- [Youtube](https://youtube.com/@m4theus.wtfkkj)
+- [Instagram](https://instagram.com/m4theus.wtfkkj)
+- Discord: @m4theus.wtfkkj
+## Projetos
+- VexyWorld (abandonado atualmente)
+- iAkunaMC (iakunamc.play-ss.net 2051 | [Servidor no discord](https://dsc.gg/iakunamc))
+- M4Shield ([Projeto no github](https://github.com/m4theuswtfkkj/m4shield))
+- M4Bot ([Projeto no github](https://github.com/m4theuswtfkkj/m4bot))
