@@ -12,3 +12,4 @@
 - iAkunaMC (iakunamc.play-ss.net 2051 | [Servidor no Discord](https://dsc.gg/iakunamc))
 - M4Shield ([Projeto no github](https://github.com/m4theuswtfkkj/m4shield) | [Servidor no Discord](https://discord.com/invite/b2VCfma42h))
 - M4Bot ([Projeto no github](https://github.com/m4theuswtfkkj/m4bot))
+- Elliot (Bot de Discord) ([Clique aqui para adicionar ele](https://discord.com/oauth2/authorize?client_id=1163489170522636369&permissions=8&scope=bot+applications.commands))
