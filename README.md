@@ -10,3 +10,5 @@
 - iAkunaMC (MCPE 0.14x - 0.15.10 server)
 - M4Shield (Plugin for PM2) [Archived]
 - M4Bot (Plugin for PM2)
+
+The code of my public plugins is very bad because I was still starting to develop plugins
