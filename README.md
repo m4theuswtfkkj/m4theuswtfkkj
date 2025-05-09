@@ -7,7 +7,7 @@
 ### Social
 - [Youtube](https://youtube.com/@m4theus.wtfkkj)
 - Discord: @m4theus.wtfkkj
-- [Instagram](https://instagram.com/m4theuswtfkkj)
+- [Instagram](https://instagram.com/m4theus.wtfkkj)
 ### Projects
 - VexyWorld (Organization and a community)
 - iAkunaMC ([2023 - my 3rd server] MCPE 0.14x - 0.15.10 server, active)
