@@ -10,7 +10,7 @@
 - [Instagram](https://instagram.com/m4theus.wtfkkj)
 ### Projects
 - VexyWorld (Organization and a community)
-- iAkunaMC ([2023 - my 3rd server] MCPE 0.14x - 0.15.10 server, active)
+- iAkunaMC ([2022 - my 3rd server] MCPE 0.14x - 0.15.10 server, active)
 - BlueMCPE (my 1st server [2021], inactive)
 - FirePvP (my 2nd server [2022], inactive)
 - M4Shield (Plugin for PM2) [Archived]
