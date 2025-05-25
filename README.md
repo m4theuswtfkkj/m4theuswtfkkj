@@ -14,6 +14,6 @@
 - BlueMCPE (my 1st server [2021], inactive)
 - FirePvP (my 2nd server [2022], inactive)
 - M4Shield (Plugin for PM2) [Archived]
-- M4Bot (Plugin for PM2)
+- M4Bot (Plugin for PM2) [Archived]
 
 The code of my public plugins is very bad because I was still starting to develop plugins
